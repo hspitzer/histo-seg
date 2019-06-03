@@ -1,4 +1,5 @@
 .*
 !.gitignore
-data/raw
-
+data
+models
+__pycache__
